@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/home/user/bin/imgur.py
+GenericName[en_US]=
+GenericName=
+Icon=/home/user/.icons/imgur.png
+MimeType=image/gif;image/jpeg;image/png;
+Name[en_US]=Imgur
+Name=Imgur
+NoDisplay=true
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
