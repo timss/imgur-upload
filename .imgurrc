@@ -1,0 +1,10 @@
+[auth]
+client_id=
+client_secret=
+access_token=
+refresh_token=
+ 
+[general]
+notify=False
+clipboard=True
+browser=True
