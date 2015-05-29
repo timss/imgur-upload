@@ -61,4 +61,4 @@ opening it in the default browser.
 [3]: https://imgur.com/apps
 [4]: https://github.com/Imgur/imgurpython#library-usage
 [5]: http://standards.freedesktop.org/mime-apps-spec/mime-apps-spec-1.0.1.html
-[7]: https://github.com/timss/imgur-upload/blob/master/imgur_screenshot.ogv
+[6]: https://github.com/timss/imgur-upload/blob/master/imgur_screenshot.ogv
