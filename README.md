@@ -2,6 +2,7 @@ Imgur Upload
 ============
 * Upload an image to an Imgur account
 * Easy to integrate with Linux desktop usage
+* Supports desktop notifications, copy to clipboard and open in browser
 * Communicates with the Imgur API using the official 
   [Imgur python client library][1]
 
