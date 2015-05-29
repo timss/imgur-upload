@@ -38,10 +38,10 @@ Linux desktop usage
 4. Update `mimeapps.list` with file associations to whatever file types you
    want, e.g:
 
-    [Added Associations]
-    image/gif=kde4-gwenview.desktop;gimp.desktop;Imgur.desktop;
-    image/jpeg=kde4-gwenview.desktop;gimp.desktop;Imgur.desktop;
-    image/png=kde4-gwenview.desktop;gimp.desktop;Imgur.desktop;
+        [Added Associations]
+        image/gif=kde4-gwenview.desktop;gimp.desktop;Imgur.desktop;
+        image/jpeg=kde4-gwenview.desktop;gimp.desktop;Imgur.desktop;
+        image/png=kde4-gwenview.desktop;gimp.desktop;Imgur.desktop;
 
 5. The Imgur Upload application should now be available on "Open With.." and
    any other menus using the MIME associations. 
