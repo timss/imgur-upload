@@ -25,7 +25,7 @@ Simple usage
 1. Place `imgur.py` somewhere in your `$PATH`, e.g. `/home/user/bin/imgur.py`.
 2. Run with path to an image as argument:
 
-    $ imgur.py shot0001.png
+        $ imgur.py shot0001.png
 
 Linux desktop usage
 -------------------
