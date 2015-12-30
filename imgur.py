@@ -39,7 +39,7 @@ def get_config(path='~/.imgurrc'):
 
     return config
 
-def notify(body, summary="Imgur", app_name="Imgur", app_icon="/home/tim/.icons/imgur.png"):
+def notify(body, summary="Imgur", app_name="Imgur", app_icon="~/.icons/imgur.png"):
     """Shows a desktop notification using D-Bus.
 
     Using the freedesktop.org and D-Bus standards to display a desktop
@@ -47,6 +47,7 @@ def notify(body, summary="Imgur", app_name="Imgur", app_icon="/home/tim/.icons/i
     http://mueller.panopticdev.com/2011/06/create-notification-bubbles-in-python.html
     """
     try:
+        app_icon = expanduser(app_icon)
         bus_name = "org.freedesktop.Notifications"
         object_path = "/org/freedesktop/Notifications"
         session_bus = dbus.SessionBus()
