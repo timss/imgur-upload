@@ -12,7 +12,7 @@ Configuration
 See [The Imgur API - Authentication][2].
 
 As this application is not official or in any way endorsed by Imgur (see
-[imgur.com/apps][3]) you have to fix registration and authentication yourself. 
+[imgur.com/tools][3]) you have to fix registration and authentication yourself.
 See [imgurpython - library usage][4] to get an idea how this is done. 
 
 Once done, fill in your account properties in `.imgurrc` and copy it to your
@@ -59,7 +59,7 @@ opening it in the default browser.
 
 [1]: https://github.com/Imgur/imgurpython
 [2]: https://api.imgur.com/#authentication
-[3]: https://imgur.com/apps
+[3]: https://imgur.com/tools
 [4]: https://github.com/Imgur/imgurpython#library-usage
 [5]: http://standards.freedesktop.org/mime-apps-spec/mime-apps-spec-1.0.1.html
 [6]: https://github.com/timss/imgur-upload/blob/master/imgur_screenshot.ogv
